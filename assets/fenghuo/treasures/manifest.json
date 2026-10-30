@@ -1,0 +1,4581 @@
+{
+  "schema_version": 1,
+  "description": "从原始截图无损裁剪的宝物详情图标；保留原背景与品质边框，没有放大或重绘。",
+  "assets": [
+    {
+      "id": "active-8ff2b13033cb",
+      "name": "战象",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "传说",
+      "set_name": "南蛮套",
+      "image": "active/战象--传说--8ff2b130.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 194919.png",
+      "source_sha256": "8ff2b13033cb23e73ed9d9052f8f132c15f8094995daed2386f87a3c13b47c9b",
+      "source_size": [
+        1017,
+        651
+      ],
+      "crop": {
+        "x": 640,
+        "y": 50,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-eee70f48d76e",
+      "name": "小熊猫",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/小熊猫--稀有--eee70f48.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 194942.png",
+      "source_sha256": "eee70f48d76e6bd42fbd75841552a5df85ac23c4e89ce467dd0324148d6b5e93",
+      "source_size": [
+        1132,
+        677
+      ],
+      "crop": {
+        "x": 713,
+        "y": 68,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-ca03d28ed852",
+      "name": "斑纹虎",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": "雄骑套",
+      "image": "active/斑纹虎--稀有--ca03d28e.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 194953.png",
+      "source_sha256": "ca03d28ed852699e9ad5ca7d331f35380a30bdb24e87ec3f26074be3e6d76330",
+      "source_size": [
+        1181,
+        709
+      ],
+      "crop": {
+        "x": 740,
+        "y": 83,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-33ac8b5a975f",
+      "name": "驴",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": "墨宝套",
+      "image": "active/驴--稀有--33ac8b5a.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195001.png",
+      "source_sha256": "33ac8b5a975fa078d79f29aeec415ae363b0e12343e7d03f94d8f301d1866d38",
+      "source_size": [
+        1204,
+        717
+      ],
+      "crop": {
+        "x": 745,
+        "y": 75,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-e86b52effcfa",
+      "name": "天狼",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": "残暴套",
+      "image": "active/天狼--稀有--e86b52ef.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195012.png",
+      "source_sha256": "e86b52effcfa4d493d6f8dc465188ee827931378c24e005248c5085c029bfd61",
+      "source_size": [
+        1160,
+        747
+      ],
+      "crop": {
+        "x": 724,
+        "y": 104,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-229fdc90c595",
+      "name": "天狗",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/天狗--稀有--229fdc90.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195021.png",
+      "source_sha256": "229fdc90c5954d9be86bd727003fe43a36f86c99ae9cea10f3bcacace56217e5",
+      "source_size": [
+        1189,
+        701
+      ],
+      "crop": {
+        "x": 718,
+        "y": 78,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-5fc3e4ac374d",
+      "name": "青牛",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "active/青牛--稀有--5fc3e4ac.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195035.png",
+      "source_sha256": "5fc3e4ac374df37fe2f7946d0093fee8246593b4da2098d44159bfa4d3687e3d",
+      "source_size": [
+        1173,
+        766
+      ],
+      "crop": {
+        "x": 743,
+        "y": 112,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-37fd508f8d5c",
+      "name": "角木蛟",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/角木蛟--稀有--37fd508f.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195046.png",
+      "source_sha256": "37fd508f8d5cd62e3561584a7af000f12cafcef495008bbfd475ef4e68d17022",
+      "source_size": [
+        1250,
+        732
+      ],
+      "crop": {
+        "x": 751,
+        "y": 107,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-b6751c41c0db",
+      "name": "奎木狼",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/奎木狼--稀有--b6751c41.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195052.png",
+      "source_sha256": "b6751c41c0db8af37cf27050079e8133a2dc57f269d8c4bd58ce3e02038bd0b3",
+      "source_size": [
+        1188,
+        744
+      ],
+      "crop": {
+        "x": 733,
+        "y": 75,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-803694ade158",
+      "name": "危月燕",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/危月燕--稀有--803694ad.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195102.png",
+      "source_sha256": "803694ade158e1a2f1acd634ff57af4734cbcc28f5957a488442f60ad5c5833a",
+      "source_size": [
+        1221,
+        712
+      ],
+      "crop": {
+        "x": 739,
+        "y": 67,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-3ef3017ef8e0",
+      "name": "斗木獬",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "active/斗木獬--稀有--3ef3017e.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195110.png",
+      "source_sha256": "3ef3017ef8e0b666c26bc7462bce0b67ed461df2045bcac5057b88f7e571bd26",
+      "source_size": [
+        1259,
+        761
+      ],
+      "crop": {
+        "x": 736,
+        "y": 112,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-1217be6128af",
+      "name": "九尾狐",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "active/九尾狐--普通--1217be61.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195120.png",
+      "source_sha256": "1217be6128af4e98cccdfec3798a56b62e240d9cb99ab4e2bcd9c6af14fd602e",
+      "source_size": [
+        1264,
+        806
+      ],
+      "crop": {
+        "x": 803,
+        "y": 162,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-db736104a574",
+      "name": "玉兔",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/玉兔--普通--db736104.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195128.png",
+      "source_sha256": "db736104a5744997844abbc3796dceb9b41d019ef84edcab1d63b85c38a7e253",
+      "source_size": [
+        1197,
+        770
+      ],
+      "crop": {
+        "x": 738,
+        "y": 94,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-aa75b2955076",
+      "name": "独角兽",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/独角兽--普通--aa75b295.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195135.png",
+      "source_sha256": "aa75b2955076aaf282f1f1a5e4ae753f67635af475f6f70b1f764b379e305480",
+      "source_size": [
+        1272,
+        742
+      ],
+      "crop": {
+        "x": 806,
+        "y": 80,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-e38473d41a34",
+      "name": "凤凰",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/凤凰--普通--e38473d4.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195142.png",
+      "source_sha256": "e38473d41a34155ffb419c25558676a5115ca68af54926495bbab89c9025070e",
+      "source_size": [
+        1247,
+        790
+      ],
+      "crop": {
+        "x": 753,
+        "y": 142,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-0753caf317d8",
+      "name": "卧龙",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/卧龙--普通--0753caf3.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195152.png",
+      "source_sha256": "0753caf317d8bde81e58ac20b1d9981e30305b0defcafdbe1405c239c3b39bf9",
+      "source_size": [
+        1185,
+        777
+      ],
+      "crop": {
+        "x": 735,
+        "y": 108,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-4e87b86808b9",
+      "name": "麒麟",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/麒麟--普通--4e87b868.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195201.png",
+      "source_sha256": "4e87b86808b91a6aa6388dfcf8f28ae680a0e7685eb5871fcc50486f8057bd48",
+      "source_size": [
+        1209,
+        739
+      ],
+      "crop": {
+        "x": 725,
+        "y": 101,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-235eadc16861",
+      "name": "鹿",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/鹿--普通--235eadc1.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195208.png",
+      "source_sha256": "235eadc168619786ad91d1f8008ef5b6c0cb8073d3602e82755f1a6d5534f80b",
+      "source_size": [
+        1288,
+        776
+      ],
+      "crop": {
+        "x": 764,
+        "y": 96,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-a2d95e3dc809",
+      "name": "亢金龙",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/亢金龙--普通--a2d95e3d.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195215.png",
+      "source_sha256": "a2d95e3dc8096febd391d66272df48eb3532f52d910734bc18469f785bae0e2c",
+      "source_size": [
+        1205,
+        775
+      ],
+      "crop": {
+        "x": 743,
+        "y": 114,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-4651296c2dfa",
+      "name": "翼火蛇",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/翼火蛇--普通--4651296c.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195223.png",
+      "source_sha256": "4651296c2dfaec3a691e552edbfffd1b43594835c63ceffb55b89306ac14bda1",
+      "source_size": [
+        1216,
+        744
+      ],
+      "crop": {
+        "x": 752,
+        "y": 103,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-86affc38b659",
+      "name": "星日马",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/星日马--普通--86affc38.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195231.png",
+      "source_sha256": "86affc38b659bd789dd604e5b8c237c2d1574f2b5a0376def49620d62c13dafa",
+      "source_size": [
+        1262,
+        808
+      ],
+      "crop": {
+        "x": 760,
+        "y": 143,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "active-e0b7f721e573",
+      "name": "参水猿",
+      "category": "主动宝物",
+      "type": "active",
+      "quality": "普通",
+      "set_name": null,
+      "image": "active/参水猿--普通--e0b7f721.png",
+      "width": 80,
+      "height": 80,
+      "source": "D:\\sanguosha\\主动宝物\\屏幕截图 2026-08-10 195238.png",
+      "source_sha256": "e0b7f721e573ccff5b525662e7f1c047a6a61249609b98eaec165df7d3659727",
+      "source_size": [
+        1225,
+        720
+      ],
+      "crop": {
+        "x": 743,
+        "y": 104,
+        "width": 80,
+        "height": 80
+      },
+      "catalog": "sets-active.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-709a15be2ae1",
+      "name": "名将终结箭",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "桃园套",
+      "image": "rare-passive/名将终结箭--普通--709a15be.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\‘.png",
+      "source_sha256": "709a15be2ae129f4eb975600759add12783f53d568d7fac55002026facaffcbd",
+      "source_size": [
+        1613,
+        1013
+      ],
+      "crop": {
+        "x": 1053,
+        "y": 84,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-a65d0a8f5572",
+      "name": "朱雀羽扇",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "rare-passive/朱雀羽扇--稀有--a65d0a8f.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232258.png",
+      "source_sha256": "a65d0a8f5572ba9ff4586680b1a985cdcfe760b1c0f70500f4b880d97e68a95b",
+      "source_size": [
+        1635,
+        959
+      ],
+      "crop": {
+        "x": 970,
+        "y": 81,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-c2a7e7ebcdd9",
+      "name": "祝融令",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "南蛮套",
+      "image": "rare-passive/祝融令--稀有--c2a7e7eb.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232323.png",
+      "source_sha256": "c2a7e7ebcdd9fbdc92cdb00ee277a4c38d46abf658e28fb5c1f2bf802c488eb3",
+      "source_size": [
+        1614,
+        987
+      ],
+      "crop": {
+        "x": 1025,
+        "y": 77,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-85dc41732a66",
+      "name": "周瑜的头盔",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/周瑜的头盔--稀有--85dc4173.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232331.png",
+      "source_sha256": "85dc41732a660751fd159320137449449568cfef6863ea31aa4b39ad117cdc7d",
+      "source_size": [
+        1613,
+        959
+      ],
+      "crop": {
+        "x": 1017,
+        "y": 87,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-24de68d9f4c0",
+      "name": "铁蒺藜骨朵",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/铁蒺藜骨朵--稀有--24de68d9.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232341.png",
+      "source_sha256": "24de68d9f4c056cfeb8f118e94e873946feaf9e4a39aec20371d3c29cd488f32",
+      "source_size": [
+        1696,
+        994
+      ],
+      "crop": {
+        "x": 1072,
+        "y": 103,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-1f57ecc56745",
+      "name": "华佗的药箱",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "rare-passive/华佗的药箱--稀有--1f57ecc5.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232349.png",
+      "source_sha256": "1f57ecc56745ed4f9337021eaab1953fed064b17bcb05a9ed32983c484eed082",
+      "source_size": [
+        1633,
+        989
+      ],
+      "crop": {
+        "x": 1051,
+        "y": 105,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e246068e8af5",
+      "name": "邢道荣的大斧",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/邢道荣的大斧--稀有--e246068e.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232358.png",
+      "source_sha256": "e246068e8af5fc1d918044addf744f39bb4bf3c3a0635ab283c49e883eee1fb1",
+      "source_size": [
+        1598,
+        988
+      ],
+      "crop": {
+        "x": 1013,
+        "y": 88,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-738abdfb2fd0",
+      "name": "诸葛连弩",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "rare-passive/诸葛连弩--稀有--738abdfb.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232405.png",
+      "source_sha256": "738abdfb2fd01b9d60911be735c8cb5466eced7062d8d161ba31d69dde4eb7ad",
+      "source_size": [
+        1605,
+        985
+      ],
+      "crop": {
+        "x": 1052,
+        "y": 82,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-dbe45d0dfe4d",
+      "name": "孔明灯",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "rare-passive/孔明灯--稀有--dbe45d0d.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232411.png",
+      "source_sha256": "dbe45d0dfe4df7a67968b8ccd156e29251f3561b1cacb8451b675d517b1ffdb8",
+      "source_size": [
+        1598,
+        998
+      ],
+      "crop": {
+        "x": 1030,
+        "y": 85,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-f33fd46fe807",
+      "name": "草船",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "rare-passive/草船--稀有--f33fd46f.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232419.png",
+      "source_sha256": "f33fd46fe807627112cdda726005fac84ef2f34a656c375083e81ffd05abb6b5",
+      "source_size": [
+        1578,
+        959
+      ],
+      "crop": {
+        "x": 1051,
+        "y": 74,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-5e854dc8ad39",
+      "name": "许劭的名单",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/许劭的名单--稀有--5e854dc8.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232426.png",
+      "source_sha256": "5e854dc8ad3933f4e6deffebb62f5e26c1a0558df040aace95848bd1c4825091",
+      "source_size": [
+        1603,
+        997
+      ],
+      "crop": {
+        "x": 1026,
+        "y": 79,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-3671878b94fe",
+      "name": "曹冲的石头船",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "rare-passive/曹冲的石头船--稀有--3671878b.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232434.png",
+      "source_sha256": "3671878b94fec831e123471ad3433b47f39fc42a9720f7e28447e43f385c2f40",
+      "source_size": [
+        1612,
+        1012
+      ],
+      "crop": {
+        "x": 1035,
+        "y": 96,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-a14743373fdf",
+      "name": "青蛇剑",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/青蛇剑--稀有--a1474337.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232442.png",
+      "source_sha256": "a14743373fdf3b58ee69911e4f890d433aac3d5d87ed17ceaf80994fa08c84db",
+      "source_size": [
+        1610,
+        1001
+      ],
+      "crop": {
+        "x": 1037,
+        "y": 78,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-61706a7d4170",
+      "name": "涯角枪",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/涯角枪--稀有--61706a7d.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232452.png",
+      "source_sha256": "61706a7d417014691e4f400154cb4274df78bc19889cc05778b8cb9ea8b83f3e",
+      "source_size": [
+        1622,
+        998
+      ],
+      "crop": {
+        "x": 1068,
+        "y": 84,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-913608f60b5f",
+      "name": "神周瑜的琴",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "乐舞套",
+      "image": "rare-passive/神周瑜的琴--稀有--913608f6.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232503.png",
+      "source_sha256": "913608f60b5f70c4d838acb1e2041414722d2e5666a0d264413088ed731ad10b",
+      "source_size": [
+        1646,
+        963
+      ],
+      "crop": {
+        "x": 1057,
+        "y": 70,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-f50220291796",
+      "name": "张飞的鞭子",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "桃园套",
+      "image": "rare-passive/张飞的鞭子--稀有--f5022029.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232510.png",
+      "source_sha256": "f50220291796b3a69e5f0dcbf49369295f900169045d4b389e5c26586fd5b641",
+      "source_size": [
+        1616,
+        986
+      ],
+      "crop": {
+        "x": 1041,
+        "y": 82,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-16bc16589b4a",
+      "name": "花鬘的骨刀",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "南蛮套",
+      "image": "rare-passive/花鬘的骨刀--稀有--16bc1658.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232518.png",
+      "source_sha256": "16bc16589b4af24dbb47f23e39500649a0fcb8778e6e2fe06555b053cc75f04f",
+      "source_size": [
+        1592,
+        1017
+      ],
+      "crop": {
+        "x": 1051,
+        "y": 86,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-44bec15f9731",
+      "name": "张绣的披风",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/张绣的披风--稀有--44bec15f.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232526.png",
+      "source_sha256": "44bec15f9731ab8267f9f3c38ae2a345b3732a1b1b3a0ee5ce7de266b84f3432",
+      "source_size": [
+        1620,
+        995
+      ],
+      "crop": {
+        "x": 1038,
+        "y": 72,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-779b3ab7b129",
+      "name": "拂尘",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/拂尘--稀有--779b3ab7.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232537.png",
+      "source_sha256": "779b3ab7b1292f479f2a8d8ea6cd7fdcde9020ba384875811b9bac196aa05cd4",
+      "source_size": [
+        1603,
+        999
+      ],
+      "crop": {
+        "x": 1062,
+        "y": 85,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e25a49376ee2",
+      "name": "张恭的信",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/张恭的信--稀有--e25a4937.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232545.png",
+      "source_sha256": "e25a49376ee258961f9328ef6427854801f96726dfda0653792af6fba9af9772",
+      "source_size": [
+        1598,
+        992
+      ],
+      "crop": {
+        "x": 1037,
+        "y": 77,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-7e5492253e53",
+      "name": "长坂坡勋章",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/长坂坡勋章--稀有--7e549225.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232553.png",
+      "source_sha256": "7e5492253e532b82d2e6e4215b3d7e77761da9abffc6cf6cba717e4fa7b891c1",
+      "source_size": [
+        1624,
+        1008
+      ],
+      "crop": {
+        "x": 1063,
+        "y": 78,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-b4a71e9c843c",
+      "name": "三娘的玫刃剑",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/三娘的玫刃剑--稀有--b4a71e9c.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232559.png",
+      "source_sha256": "b4a71e9c843c8a924f2c5dfbcfda890fdf5c421e90531b8e4635fd600d563c41",
+      "source_size": [
+        1636,
+        989
+      ],
+      "crop": {
+        "x": 1068,
+        "y": 82,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-186b61959a86",
+      "name": "蝴蝶翼",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/蝴蝶翼--稀有--186b6195.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232607.png",
+      "source_sha256": "186b61959a862c02022ba6eef3786b2da2ae429751cc363f46c47f593c148d3f",
+      "source_size": [
+        1654,
+        1016
+      ],
+      "crop": {
+        "x": 1076,
+        "y": 77,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-5cfc5cad731c",
+      "name": "追猎锤",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "rare-passive/追猎锤--稀有--5cfc5cad.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232613.png",
+      "source_sha256": "5cfc5cad731c0e42b141403b455e50b4e145ebc74e7a4f8e71d0a3536d714add",
+      "source_size": [
+        1636,
+        1010
+      ],
+      "crop": {
+        "x": 1081,
+        "y": 90,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-055cec467517",
+      "name": "阿斗的襁褓",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "rare-passive/阿斗的襁褓--稀有--055cec46.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232620.png",
+      "source_sha256": "055cec4675175df43f91a3e3c79b0cd15ba5c0d39be48067c31622d839502f2f",
+      "source_size": [
+        1595,
+        982
+      ],
+      "crop": {
+        "x": 1045,
+        "y": 79,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-32774127da3f",
+      "name": "孟德新书",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "墨宝套",
+      "image": "rare-passive/孟德新书--稀有--32774127.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232627.png",
+      "source_sha256": "32774127da3fdd9c1ba1cf6eab1a16fbe53486413810ba77c12d2b5b7f8cdbcf",
+      "source_size": [
+        1584,
+        1016
+      ],
+      "crop": {
+        "x": 1045,
+        "y": 101,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-1d172d393f89",
+      "name": "刘备的草鞋",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "桃园套",
+      "image": "rare-passive/刘备的草鞋--普通--1d172d39.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232635.png",
+      "source_sha256": "1d172d393f89b7e5c98cdc15f2088fcef785b5cae7641c3ceca379fa46c1c891",
+      "source_size": [
+        1583,
+        986
+      ],
+      "crop": {
+        "x": 1037,
+        "y": 71,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-bdd64c47f904",
+      "name": "焦尾琴",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "乐舞套",
+      "image": "rare-passive/焦尾琴--普通--bdd64c47.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232643.png",
+      "source_sha256": "bdd64c47f9042601b5aacdc19006b916d2948d68e3a9c9b49cfd65ab356f400f",
+      "source_size": [
+        1599,
+        1003
+      ],
+      "crop": {
+        "x": 1030,
+        "y": 68,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-7fefc3dfd2da",
+      "name": "木牛流马",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "发明套",
+      "image": "rare-passive/木牛流马--普通--7fefc3df.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232651.png",
+      "source_sha256": "7fefc3dfd2dac7c488f4713c83bcd45a75fa4995715051183ea2f2e04ddda1ad",
+      "source_size": [
+        1648,
+        1004
+      ],
+      "crop": {
+        "x": 1069,
+        "y": 81,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-b41bfbbcbaac",
+      "name": "史记",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "学习套",
+      "image": "rare-passive/史记--普通--b41bfbbc.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232659.png",
+      "source_sha256": "b41bfbbcbaac0605f8564765a48aefcd20946aa95c83173976a0b52e925e0b1a",
+      "source_size": [
+        1611,
+        1015
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 88,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-6b595dc106f1",
+      "name": "周妃的箜篌",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "乐舞套",
+      "image": "rare-passive/周妃的箜篌--普通--6b595dc1.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232706.png",
+      "source_sha256": "6b595dc106f19f03a7ce41e17422596350c91d4887dca7267781d1b6e357403a",
+      "source_size": [
+        1609,
+        995
+      ],
+      "crop": {
+        "x": 1052,
+        "y": 73,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-6bef726c6438",
+      "name": "吕凯的司南",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/吕凯的司南--普通--6bef726c.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232714.png",
+      "source_sha256": "6bef726c643833199e756b359e6b1fd05860fbd87a7dc729c4694e3acdbf200c",
+      "source_size": [
+        1601,
+        987
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 77,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-13231ebbc029",
+      "name": "吕蒙的白衣",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "rare-passive/吕蒙的白衣--普通--13231ebb.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232722.png",
+      "source_sha256": "13231ebbc0296a715b94d45d67a78fd0e319c9620692206c427ba54cba8643cf",
+      "source_size": [
+        1572,
+        987
+      ],
+      "crop": {
+        "x": 1042,
+        "y": 76,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-9732f9378020",
+      "name": "卫温诸葛直的帆",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/卫温诸葛直的帆--普通--9732f937.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232729.png",
+      "source_sha256": "9732f9378020fbff6115dad5a0ecfa30ff37b41c56b57c1661052cc507609df4",
+      "source_size": [
+        1582,
+        961
+      ],
+      "crop": {
+        "x": 1040,
+        "y": 76,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-208e11bb65e0",
+      "name": "公孙渊的珠宝",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/公孙渊的珠宝--普通--208e11bb.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232735.png",
+      "source_sha256": "208e11bb65e06be2eda0e02fce9b9723c70ed5175b90aadc0ae2934ee08579c6",
+      "source_size": [
+        1605,
+        997
+      ],
+      "crop": {
+        "x": 1057,
+        "y": 86,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-2694a47cc24b",
+      "name": "出师表",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "墨宝套",
+      "image": "rare-passive/出师表--普通--2694a47c.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232742.png",
+      "source_sha256": "2694a47cc24bb3a9303eab7ffa4d044f11fdaa0e9cfa38760a7c708f1e0224a4",
+      "source_size": [
+        1595,
+        974
+      ],
+      "crop": {
+        "x": 1047,
+        "y": 77,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-9e406ab248da",
+      "name": "罗盘",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/罗盘--普通--9e406ab2.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232749.png",
+      "source_sha256": "9e406ab248dab0cca0277718c6a4b62e864166d6d5b326e78767f411791ca28e",
+      "source_size": [
+        1560,
+        965
+      ],
+      "crop": {
+        "x": 1017,
+        "y": 70,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-065dfffd1a6d",
+      "name": "荀彧的香炉",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/荀彧的香炉--普通--065dfffd.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232801.png",
+      "source_sha256": "065dfffd1a6de202c2680959365300f66e07a7111e75ca710057ab3c4e49158c",
+      "source_size": [
+        1583,
+        1006
+      ],
+      "crop": {
+        "x": 1042,
+        "y": 92,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-51828d9aecc2",
+      "name": "何进的屠刀",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "残暴套",
+      "image": "rare-passive/何进的屠刀--普通--51828d9a.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232808.png",
+      "source_sha256": "51828d9aecc25efb4188f5dce5699d3976bb90bf17419d50d609f4aa9773d596",
+      "source_size": [
+        1607,
+        1027
+      ],
+      "crop": {
+        "x": 1047,
+        "y": 84,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-0db2ef2351a5",
+      "name": "洛神赋",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "墨宝套",
+      "image": "rare-passive/洛神赋--普通--0db2ef23.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232814.png",
+      "source_sha256": "0db2ef2351a5a8b6b2da392f98b380d8c80283566679400d67f66deb4d3c3b4b",
+      "source_size": [
+        1649,
+        1003
+      ],
+      "crop": {
+        "x": 1064,
+        "y": 93,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e1157156dc1a",
+      "name": "孟获的兵法书",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "南蛮套",
+      "image": "rare-passive/孟获的兵法书--普通--e1157156.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232821.png",
+      "source_sha256": "e1157156dc1a3223c441a1967d2b32d8a19d3cf70ae1e25531fcc7d8d09c61a0",
+      "source_size": [
+        1574,
+        998
+      ],
+      "crop": {
+        "x": 1056,
+        "y": 91,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-0ad114106213",
+      "name": "周泰的纱布",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "仁爱套",
+      "image": "rare-passive/周泰的纱布--普通--0ad11410.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232828.png",
+      "source_sha256": "0ad1141062138ba8babc4eaffa69ade9eafe737388b054ba11d92530ce60b3c4",
+      "source_size": [
+        1623,
+        975
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 79,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-89e53a8de9d7",
+      "name": "卑弥呼的面具",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/卑弥呼的面具--普通--89e53a8d.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232837.png",
+      "source_sha256": "89e53a8de9d77069752bb0eac2aef54d3fd4246664244dbe95c7f8b4e55773c3",
+      "source_size": [
+        1604,
+        991
+      ],
+      "crop": {
+        "x": 1044,
+        "y": 85,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-375fccbc64cc",
+      "name": "镔铁大砍刀",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "残暴套",
+      "image": "rare-passive/镔铁大砍刀--普通--375fccbc.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232844.png",
+      "source_sha256": "375fccbc64cc8ab923d5c788711b858597da3af19e0bda4fd709a51b31373e6e",
+      "source_size": [
+        1651,
+        988
+      ],
+      "crop": {
+        "x": 1065,
+        "y": 86,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-143fb930e51b",
+      "name": "龙印",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/龙印--普通--143fb930.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232852.png",
+      "source_sha256": "143fb930e51ba479c332e1141d075718763a4161d368d9df336a15eeff90019d",
+      "source_size": [
+        1583,
+        986
+      ],
+      "crop": {
+        "x": 1036,
+        "y": 88,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-6466062a85cf",
+      "name": "凤印",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/凤印--普通--6466062a.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232858.png",
+      "source_sha256": "6466062a85cf65eccf303a999037299be30643f838b72aa478d106ea9685abd3",
+      "source_size": [
+        1679,
+        976
+      ],
+      "crop": {
+        "x": 1067,
+        "y": 75,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-64c418b19d90",
+      "name": "曹操的须袍",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "rare-passive/曹操的须袍--普通--64c418b1.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232906.png",
+      "source_sha256": "64c418b19d90c37967a75ea49890e152c034a54fe4594b7660238403e260804c",
+      "source_size": [
+        1638,
+        997
+      ],
+      "crop": {
+        "x": 1062,
+        "y": 90,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-912c8335b0f4",
+      "name": "月英的面纱",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "rare-passive/月英的面纱--普通--912c8335.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232914.png",
+      "source_sha256": "912c8335b0f435b9cd424387882090e7a5338a7f3561d7ed1b4bcf2c8c04921b",
+      "source_size": [
+        1672,
+        1021
+      ],
+      "crop": {
+        "x": 1054,
+        "y": 95,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-41a0f6e45462",
+      "name": "甘宁的铃铛",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/甘宁的铃铛--普通--41a0f6e4.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232920.png",
+      "source_sha256": "41a0f6e45462e5a659dc7ff55dd5b8ca1bb05ecd3294d06fb2c57d5e57191fd5",
+      "source_size": [
+        1640,
+        1006
+      ],
+      "crop": {
+        "x": 1061,
+        "y": 75,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-6d562b1e41c5",
+      "name": "孙皓的浴袍",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "残暴套",
+      "image": "rare-passive/孙皓的浴袍--普通--6d562b1e.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232926.png",
+      "source_sha256": "6d562b1e41c56658a012e928dfe2f5199e4bfafbec4d61c2b1c92f7fc11b3463",
+      "source_size": [
+        1696,
+        1030
+      ],
+      "crop": {
+        "x": 1075,
+        "y": 99,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-b561c8c3e610",
+      "name": "关索的玫瑰花",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/关索的玫瑰花--普通--b561c8c3.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232933.png",
+      "source_sha256": "b561c8c3e61049eeee29e5b9d6fd12bbe9ddc4e4bd5164bf732fa53486f11a34",
+      "source_size": [
+        1633,
+        1025
+      ],
+      "crop": {
+        "x": 1044,
+        "y": 87,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-f44eaa148c7e",
+      "name": "甄姬的蝴蝶结",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/甄姬的蝴蝶结--普通--f44eaa14.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232941.png",
+      "source_sha256": "f44eaa148c7ed720a63f880304b9f90ef2397106244a7e671aac334c0337f8ab",
+      "source_size": [
+        1628,
+        1024
+      ],
+      "crop": {
+        "x": 1038,
+        "y": 84,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-3b8e4ca04b6f",
+      "name": "夏侯惇的眼罩",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/夏侯惇的眼罩--普通--3b8e4ca0.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232948.png",
+      "source_sha256": "3b8e4ca04b6f9a9b3f0f32df5c8169bca5b7a7dc40bf4ee2edc14dc41e0d4405",
+      "source_size": [
+        1654,
+        1037
+      ],
+      "crop": {
+        "x": 1071,
+        "y": 99,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-b6c5a82d8659",
+      "name": "文远牌止啼散",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/文远牌止啼散--普通--b6c5a82d.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 232954.png",
+      "source_sha256": "b6c5a82d865954de5ed8a2a96eb93c9187b0552011dcdc845421e907f9d63890",
+      "source_size": [
+        1640,
+        1032
+      ],
+      "crop": {
+        "x": 1067,
+        "y": 101,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-0cf91fd703d5",
+      "name": "雷铜的大盾",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/雷铜的大盾--普通--0cf91fd7.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233000.png",
+      "source_sha256": "0cf91fd703d5353994c0390f60e05f0f8904432d175caa35cb998e4185cba416",
+      "source_size": [
+        1648,
+        1031
+      ],
+      "crop": {
+        "x": 1075,
+        "y": 92,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-2b5080832532",
+      "name": "吴兰的长矛",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/吴兰的长矛--普通--2b508083.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233007.png",
+      "source_sha256": "2b5080832532e354ab3e154009665c602caf826334785b1269975624dd9b89df",
+      "source_size": [
+        1666,
+        996
+      ],
+      "crop": {
+        "x": 1072,
+        "y": 88,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-162982a5abe2",
+      "name": "留赞的扩音器",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/留赞的扩音器--普通--162982a5.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233015.png",
+      "source_sha256": "162982a5abe29aefa793369e45f56e76ae3b89991f89314c4ec84f993ebc39ba",
+      "source_size": [
+        1651,
+        998
+      ],
+      "crop": {
+        "x": 1072,
+        "y": 97,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-a2037e5053a2",
+      "name": "许贡的护额",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "rare-passive/许贡的护额--普通--a2037e50.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233021.png",
+      "source_sha256": "a2037e5053a2b1249529c2b95e355b18b71617aaeda0583a8a01b78efc6599a6",
+      "source_size": [
+        1667,
+        1024
+      ],
+      "crop": {
+        "x": 1073,
+        "y": 89,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e4eb85167d33",
+      "name": "陆逊的火把",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "桃园套",
+      "image": "rare-passive/陆逊的火把--普通--e4eb8516.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233028.png",
+      "source_sha256": "e4eb85167d33a56258c20ac2130d6afeb3cfd228dee14cdf914be435c46a9af1",
+      "source_size": [
+        1669,
+        1035
+      ],
+      "crop": {
+        "x": 1081,
+        "y": 91,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-2133eec67c38",
+      "name": "范疆张达的刀",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "桃园套",
+      "image": "rare-passive/范疆张达的刀--普通--2133eec6.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233034.png",
+      "source_sha256": "2133eec67c386b89132ac5ebc76d7799647a7f9db3f5e15dd6fe0f009dfbcffa",
+      "source_size": [
+        1636,
+        1009
+      ],
+      "crop": {
+        "x": 1076,
+        "y": 104,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-8dc0affe22e2",
+      "name": "张角的天书",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "学习套",
+      "image": "rare-passive/张角的天书--普通--8dc0affe.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233039.png",
+      "source_sha256": "8dc0affe22e2aac7c2d1991281bd41d25bbf4b00e4e3ee54e4dc2fff1be2ce18",
+      "source_size": [
+        1721,
+        1015
+      ],
+      "crop": {
+        "x": 1115,
+        "y": 97,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e3577a4a3eb7",
+      "name": "张妈的作业本",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "学习套",
+      "image": "rare-passive/张妈的作业本--普通--e3577a4a.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233046.png",
+      "source_sha256": "e3577a4a3eb7cdde79458c50f104c49d2b80e72309b561757d493f5ecd97e3f7",
+      "source_size": [
+        1593,
+        1023
+      ],
+      "crop": {
+        "x": 1027,
+        "y": 90,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-22f1047e02a4",
+      "name": "兀突骨的藤甲",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "南蛮套",
+      "image": "rare-passive/兀突骨的藤甲--普通--22f1047e.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233056.png",
+      "source_sha256": "22f1047e02a49bab4fcd229a2aba32980607343e32f6f0a02b0b871235a1140c",
+      "source_size": [
+        1606,
+        982
+      ],
+      "crop": {
+        "x": 1058,
+        "y": 78,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-5c6d23c8f412",
+      "name": "忙牙长的帽子",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "南蛮套",
+      "image": "rare-passive/忙牙长的帽子--普通--5c6d23c8.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233102.png",
+      "source_sha256": "5c6d23c8f412319afff5b64e44b0d87423b789370ce77e59761d09d332ebf1a2",
+      "source_size": [
+        1625,
+        1003
+      ],
+      "crop": {
+        "x": 1048,
+        "y": 92,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-27f27cb5f757",
+      "name": "陈琳的笔",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "墨宝套",
+      "image": "rare-passive/陈琳的笔--普通--27f27cb5.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233109.png",
+      "source_sha256": "27f27cb5f757a66d40682d57c33a72bc3d019a22b0be13ba422d8b57ed1c634a",
+      "source_size": [
+        1632,
+        1012
+      ],
+      "crop": {
+        "x": 1067,
+        "y": 81,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-3c97fc0241cc",
+      "name": "钟繇的字帖",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "墨宝套",
+      "image": "rare-passive/钟繇的字帖--普通--3c97fc02.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233116.png",
+      "source_sha256": "3c97fc0241cc4606a48a0fd3960cc89930ecdbea0fc534f5ad4ccc568186788d",
+      "source_size": [
+        1661,
+        1008
+      ],
+      "crop": {
+        "x": 1082,
+        "y": 93,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-186837721ec9",
+      "name": "刘禅的诏令",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "逐鹿套",
+      "image": "rare-passive/刘禅的诏令--普通--18683772.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233122.png",
+      "source_sha256": "186837721ec9b608e9f521ed540be53480fa8d8e230abda6bdb7f918ba6f5080",
+      "source_size": [
+        1634,
+        1039
+      ],
+      "crop": {
+        "x": 1054,
+        "y": 98,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-712f8c30b08d",
+      "name": "刘辩的冕旒",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/刘辩的冕旒--普通--712f8c30.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233131.png",
+      "source_sha256": "712f8c30b08d22cf563e8a8b54643a94c7870a4bf2248aa3bcef5dc530e06418",
+      "source_size": [
+        1616,
+        1006
+      ],
+      "crop": {
+        "x": 1046,
+        "y": 87,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-eba2602cb194",
+      "name": "军令状",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/军令状--普通--eba2602c.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233138.png",
+      "source_sha256": "eba2602cb19471982b0e9abc01a3aa8788af72f6535724e300806568f112118e",
+      "source_size": [
+        1638,
+        1027
+      ],
+      "crop": {
+        "x": 1064,
+        "y": 105,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-48cc2bc91aef",
+      "name": "吕布的族谱",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "残暴套",
+      "image": "rare-passive/吕布的族谱--普通--48cc2bc9.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233152.png",
+      "source_sha256": "48cc2bc91aefae2364c34ef0d4ddd5e8a34033eb19cc168211bae46054f9667d",
+      "source_size": [
+        1597,
+        1017
+      ],
+      "crop": {
+        "x": 1037,
+        "y": 87,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-08107bb1941a",
+      "name": "吕布的族谱",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "残暴套",
+      "image": "rare-passive/吕布的族谱--普通--08107bb1.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233158.png",
+      "source_sha256": "08107bb1941a8de011606c8ca76a6c4557c34152ff0055424604e93bd2864da8",
+      "source_size": [
+        1616,
+        1003
+      ],
+      "crop": {
+        "x": 1058,
+        "y": 94,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": false
+    },
+    {
+      "id": "rare-passive-ab0f1da451e9",
+      "name": "蔡文姬的长笛",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "乐舞套",
+      "image": "rare-passive/蔡文姬的长笛--普通--ab0f1da4.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233207.png",
+      "source_sha256": "ab0f1da451e9c12a667a270304a428b10ac15e89a38875734c7477b79309fe09",
+      "source_size": [
+        1632,
+        1002
+      ],
+      "crop": {
+        "x": 1061,
+        "y": 76,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-3a051d9c299d",
+      "name": "八卦阵",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "发明套",
+      "image": "rare-passive/八卦阵--普通--3a051d9c.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233220.png",
+      "source_sha256": "3a051d9c299d913e402c68bb057a98c6a2797026887478b7cd01e021096ac554",
+      "source_size": [
+        1644,
+        993
+      ],
+      "crop": {
+        "x": 1063,
+        "y": 76,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-aaafa021abb3",
+      "name": "许攸的传呼机",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/许攸的传呼机--普通--aaafa021.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233227.png",
+      "source_sha256": "aaafa021abb30471e9156908e15f0bfd080a420a3ca11ef705ed78427e277422",
+      "source_size": [
+        1580,
+        996
+      ],
+      "crop": {
+        "x": 1006,
+        "y": 78,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-f617cba5b88c",
+      "name": "蒲元的锻锤",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/蒲元的锻锤--普通--f617cba5.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233234.png",
+      "source_sha256": "f617cba5b88c6c59e25aef2ddb4e41d44ac0d02ec56b973ffae9eb1c5b57571e",
+      "source_size": [
+        1620,
+        1032
+      ],
+      "crop": {
+        "x": 1060,
+        "y": 102,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-d65ce3ce37c0",
+      "name": "糜竺的账本",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": null,
+      "image": "rare-passive/糜竺的账本--普通--d65ce3ce.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233241.png",
+      "source_sha256": "d65ce3ce37c0656a01c567861dea33684e0d8bdf945080ae6600cc6dc8fd9a9b",
+      "source_size": [
+        1626,
+        1009
+      ],
+      "crop": {
+        "x": 1059,
+        "y": 89,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-e10f6db0cb0a",
+      "name": "马铠",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/马铠--普通--e10f6db0.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233248.png",
+      "source_sha256": "e10f6db0cb0aefde25c1b033f0fbd8f5a03a2587e0d3176b4957a4852e25e251",
+      "source_size": [
+        1597,
+        1010
+      ],
+      "crop": {
+        "x": 1045,
+        "y": 88,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-3e89e2914dad",
+      "name": "马踏飞燕",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/马踏飞燕--普通--3e89e291.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233255.png",
+      "source_sha256": "3e89e2914dad5569e7dccd70c0c7bef2f2bec4e9238c17a2b6f5cba0dfa8b239",
+      "source_size": [
+        1590,
+        1030
+      ],
+      "crop": {
+        "x": 1039,
+        "y": 100,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-1f0b61853e66",
+      "name": "马鞍",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/马鞍--普通--1f0b6185.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233301.png",
+      "source_sha256": "1f0b61853e6649372a8f4a73c3dd1b83b2c358e46ceec9f06cca5e28a127b3c7",
+      "source_size": [
+        1643,
+        1039
+      ],
+      "crop": {
+        "x": 1073,
+        "y": 100,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-6e2f374dcb74",
+      "name": "槽枥",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/槽枥--普通--6e2f374d.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233312.png",
+      "source_sha256": "6e2f374dcb741fcbd3159e110f5d778bf6e8a3f97905530f7906be62a436cd04",
+      "source_size": [
+        1617,
+        970
+      ],
+      "crop": {
+        "x": 1039,
+        "y": 69,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-d2425e610a37",
+      "name": "马术宝典",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/马术宝典--普通--d2425e61.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233321.png",
+      "source_sha256": "d2425e610a37dfb3bf2a85ebb7559740359e446229e6b30f3cf4f4f97f503d13",
+      "source_size": [
+        1615,
+        1005
+      ],
+      "crop": {
+        "x": 1054,
+        "y": 90,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-976fb5073480",
+      "name": "坐骑卡包",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/坐骑卡包--普通--976fb507.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233332.png",
+      "source_sha256": "976fb50734802660851cfaa29eb5bc33cfdeb7bbaddc6173dfe3a1aac2c9792d",
+      "source_size": [
+        1665,
+        986
+      ],
+      "crop": {
+        "x": 1060,
+        "y": 95,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-cd27bf85664a",
+      "name": "雄骑手册",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "雄骑套",
+      "image": "rare-passive/雄骑手册--普通--cd27bf85.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233339.png",
+      "source_sha256": "cd27bf85664a699334a30bd40ec060700619905e5df788388297d0e1007daaa9",
+      "source_size": [
+        1648,
+        999
+      ],
+      "crop": {
+        "x": 1067,
+        "y": 76,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "rare-passive-302f364f8926",
+      "name": "胡车儿的面罩",
+      "category": "稀有被动宝物",
+      "type": "passive",
+      "quality": "普通",
+      "set_name": "伪装套",
+      "image": "rare-passive/胡车儿的面罩--普通--302f364f.png",
+      "width": 120,
+      "height": 120,
+      "source": "D:\\sanguosha\\稀有被动宝物\\屏幕截图 2026-08-12 233350.png",
+      "source_sha256": "302f364f8926e3439f695c9e4becc1c12c236e6ac9e926491c4be478b83c5f4b",
+      "source_size": [
+        1578,
+        979
+      ],
+      "crop": {
+        "x": 1004,
+        "y": 85,
+        "width": 120,
+        "height": 120
+      },
+      "catalog": "rare.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-c786018b2063",
+      "name": "三国演义",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "学习套",
+      "image": "passive/三国演义--传说--c786018b.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195331.png",
+      "source_sha256": "c786018b20634b1c048987945a8c4669d211e7651697e5e1496d7430744e9482",
+      "source_size": [
+        1200,
+        713
+      ],
+      "crop": {
+        "x": 734,
+        "y": 79,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-f976d4e1a16e",
+      "name": "大饼",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": null,
+      "image": "passive/大饼--传说--f976d4e1.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195349.png",
+      "source_sha256": "f976d4e1a16ede090e04dfddf88e2afeef664b5ee8961bc7c3f5d0f006d8fec8",
+      "source_size": [
+        1233,
+        743
+      ],
+      "crop": {
+        "x": 755,
+        "y": 114,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-24a5fcba2ca8",
+      "name": "空城绝唱",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "乐舞套",
+      "image": "passive/空城绝唱--传说--24a5fcba.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195356.png",
+      "source_sha256": "24a5fcba2ca80fc76ab941ad58d3c4bff323981f61e0b47e65f6ee6e86642c77",
+      "source_size": [
+        1203,
+        743
+      ],
+      "crop": {
+        "x": 759,
+        "y": 109,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-dfa62c41bd4b",
+      "name": "聚宝盆",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": null,
+      "image": "passive/聚宝盆--传说--dfa62c41.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195404.png",
+      "source_sha256": "dfa62c41bd4b25014fd3e36e4f1b606142f1abd6b6d2b2038a55623a67ee5e7b",
+      "source_size": [
+        1218,
+        756
+      ],
+      "crop": {
+        "x": 756,
+        "y": 98,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-fa5115541c71",
+      "name": "蒲元的机械手臂",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": null,
+      "image": "passive/蒲元的机械手臂--传说--fa511554.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195411.png",
+      "source_sha256": "fa5115541c7144eb4594d87261d92784505973a8168a4bcbf335228d117ec359",
+      "source_size": [
+        1186,
+        722
+      ],
+      "crop": {
+        "x": 725,
+        "y": 90,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-bc87e81dce6c",
+      "name": "七星灯",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "仁爱套",
+      "image": "passive/七星灯--传说--bc87e81d.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195420.png",
+      "source_sha256": "bc87e81dce6cc868511b277848b0bf614201ad9db641b3d25ca1d394be9ad125",
+      "source_size": [
+        1266,
+        760
+      ],
+      "crop": {
+        "x": 733,
+        "y": 105,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-9d2d7e123500",
+      "name": "吕氏春秋",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "学习套",
+      "image": "passive/吕氏春秋--传说--9d2d7e12.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195427.png",
+      "source_sha256": "9d2d7e12350049c7fa8e78465643bf6d5b751633a9137ca0d7e40979f010a78c",
+      "source_size": [
+        1209,
+        786
+      ],
+      "crop": {
+        "x": 728,
+        "y": 113,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-06a2d1a9f6a2",
+      "name": "关羽的绿帽子",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "桃园套",
+      "image": "passive/关羽的绿帽子--传说--06a2d1a9.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195437.png",
+      "source_sha256": "06a2d1a9f6a21053bc89be4fd863b1587826e69f3922e9923b2eac4e034aba92",
+      "source_size": [
+        1235,
+        833
+      ],
+      "crop": {
+        "x": 737,
+        "y": 126,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-88a9893e4d3b",
+      "name": "张琪瑛的法箓",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "逐鹿套",
+      "image": "passive/张琪瑛的法箓--传说--88a9893e.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195444.png",
+      "source_sha256": "88a9893e4d3ba47e34b49894aeaf25685e028dae8714d062662c1717223249b3",
+      "source_size": [
+        1261,
+        777
+      ],
+      "crop": {
+        "x": 765,
+        "y": 117,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-d0ffb2b191de",
+      "name": "张鲁的布道幡",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "逐鹿套",
+      "image": "passive/张鲁的布道幡--传说--d0ffb2b1.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195452.png",
+      "source_sha256": "d0ffb2b191deb6b15ce990bf191927c4234fe56739d8d42dc9f834711c0e7372",
+      "source_size": [
+        1341,
+        748
+      ],
+      "crop": {
+        "x": 844,
+        "y": 111,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-cc058e9ecfa2",
+      "name": "凶镬",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": "残暴套",
+      "image": "passive/凶镬--传说--cc058e9e.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195500.png",
+      "source_sha256": "cc058e9ecfa24f556aaf6ff1d377b7db9c0db58f9a6998d9a3b8bb7d008ae554",
+      "source_size": [
+        1270,
+        746
+      ],
+      "crop": {
+        "x": 797,
+        "y": 107,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-26756cca3169",
+      "name": "凤鸣冠",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "传说",
+      "set_name": null,
+      "image": "passive/凤鸣冠--传说--26756cca.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195508.png",
+      "source_sha256": "26756cca316953c50ff915617fbc3bb8de10e2beac719c2a0774915e26c6b508",
+      "source_size": [
+        1243,
+        735
+      ],
+      "crop": {
+        "x": 739,
+        "y": 84,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "passive-c894d759d355",
+      "name": "朱雀羽扇",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "passive/朱雀羽扇--稀有--c894d759.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195540.png",
+      "source_sha256": "c894d759d35594d1c0aebb70589eb93c2c31c890368fbec135d13811a912ab4a",
+      "source_size": [
+        1174,
+        671
+      ],
+      "crop": {
+        "x": 718,
+        "y": 67,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-83723f54a173",
+      "name": "祝融令",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "南蛮套",
+      "image": "passive/祝融令--稀有--83723f54.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195547.png",
+      "source_sha256": "83723f54a173f09f553594539400c3e9413389d98bce2a876c04d66e521bfd14",
+      "source_size": [
+        1167,
+        778
+      ],
+      "crop": {
+        "x": 722,
+        "y": 98,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-52d0d8fd123a",
+      "name": "周瑜的头盔",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/周瑜的头盔--稀有--52d0d8fd.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195556.png",
+      "source_sha256": "52d0d8fd123a308f393dbf7af0b728f2fa23b59c428a5caafe2de680764b9303",
+      "source_size": [
+        1143,
+        725
+      ],
+      "crop": {
+        "x": 726,
+        "y": 98,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-49a3930f8a26",
+      "name": "铁蒺藜骨朵",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/铁蒺藜骨朵--稀有--49a3930f.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195604.png",
+      "source_sha256": "49a3930f8a2699ae6430dbda9f0b8bab39187588a4f6bc3dc6f75790b5e2c498",
+      "source_size": [
+        1225,
+        738
+      ],
+      "crop": {
+        "x": 716,
+        "y": 94,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-db550fed3147",
+      "name": "华佗的药箱",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "passive/华佗的药箱--稀有--db550fed.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195612.png",
+      "source_sha256": "db550fed31478ce61984e668cc4b2e94bcad8430d138b6b2f7450a0db2c94594",
+      "source_size": [
+        1200,
+        736
+      ],
+      "crop": {
+        "x": 732,
+        "y": 87,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-77ff6c684105",
+      "name": "邢道荣的大斧",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/邢道荣的大斧--稀有--77ff6c68.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195619.png",
+      "source_sha256": "77ff6c68410597acebf5baf1e345d1b0de2e67545da9c5b872447de64576f7a6",
+      "source_size": [
+        1191,
+        745
+      ],
+      "crop": {
+        "x": 743,
+        "y": 124,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-40d0c8741735",
+      "name": "诸葛连弩",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "passive/诸葛连弩--稀有--40d0c874.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195629.png",
+      "source_sha256": "40d0c8741735f777404325530b94f18dfda38b61efaad7e5e9e663a6b16f9af0",
+      "source_size": [
+        1134,
+        752
+      ],
+      "crop": {
+        "x": 730,
+        "y": 126,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-a4e7642b6827",
+      "name": "孔明灯",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "passive/孔明灯--稀有--a4e7642b.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195637.png",
+      "source_sha256": "a4e7642b6827c1484e9096b08419f35846181f5c7136a09d36d3a42294160099",
+      "source_size": [
+        1258,
+        736
+      ],
+      "crop": {
+        "x": 775,
+        "y": 106,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-8d42d619f4de",
+      "name": "草船",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "发明套",
+      "image": "passive/草船--稀有--8d42d619.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195645.png",
+      "source_sha256": "8d42d619f4de20ca7f64acae2bea5f5e7c2e24533a8e5ffe721a15f61b4f9f91",
+      "source_size": [
+        1211,
+        728
+      ],
+      "crop": {
+        "x": 701,
+        "y": 100,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-adb713599184",
+      "name": "许劭的名单",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/许劭的名单--稀有--adb71359.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195654.png",
+      "source_sha256": "adb713599184774ec94a64b9a069024e4348b4df20773623a5dfea404daa43db",
+      "source_size": [
+        1207,
+        769
+      ],
+      "crop": {
+        "x": 765,
+        "y": 104,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-ae46669d4df8",
+      "name": "曹冲的石头船",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "passive/曹冲的石头船--稀有--ae46669d.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195701.png",
+      "source_sha256": "ae46669d4df83871d74c5024f68e9929fbad6df9678d47e0af28654194ba6271",
+      "source_size": [
+        1263,
+        739
+      ],
+      "crop": {
+        "x": 746,
+        "y": 86,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-31ab1a646974",
+      "name": "青蛇剑",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/青蛇剑--稀有--31ab1a64.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195708.png",
+      "source_sha256": "31ab1a6469748a34bb05f45570dda9752f06fad6f4ebac94c4f785a236b11181",
+      "source_size": [
+        1202,
+        720
+      ],
+      "crop": {
+        "x": 734,
+        "y": 84,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-43650e992f25",
+      "name": "涯角枪",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/涯角枪--稀有--43650e99.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195714.png",
+      "source_sha256": "43650e992f253d23487a5c72ce474c76b7483fe7d2e9a44703455c75b98d550a",
+      "source_size": [
+        1161,
+        755
+      ],
+      "crop": {
+        "x": 709,
+        "y": 67,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-710c6f98d32b",
+      "name": "神周瑜的琴",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "乐舞套",
+      "image": "passive/神周瑜的琴--稀有--710c6f98.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195723.png",
+      "source_sha256": "710c6f98d32bceec606f2945d441a11662fe24779031e68594b83cd722430f9a",
+      "source_size": [
+        1208,
+        698
+      ],
+      "crop": {
+        "x": 772,
+        "y": 99,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-3cc5c9ce711c",
+      "name": "张飞的鞭子",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "桃园套",
+      "image": "passive/张飞的鞭子--稀有--3cc5c9ce.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195731.png",
+      "source_sha256": "3cc5c9ce711ce2b7be90c4465d1093bb892dfe69cb54f42f1f62c3a2993bf9ca",
+      "source_size": [
+        1182,
+        749
+      ],
+      "crop": {
+        "x": 695,
+        "y": 75,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-7867b755fa6e",
+      "name": "花鬘的骨刀",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "南蛮套",
+      "image": "passive/花鬘的骨刀--稀有--7867b755.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195738.png",
+      "source_sha256": "7867b755fa6e9be39b3a46b6b5ba4c80fa51bec9ef5051bd690cbde7ee2034a9",
+      "source_size": [
+        1178,
+        739
+      ],
+      "crop": {
+        "x": 731,
+        "y": 90,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-2db43db698a3",
+      "name": "张绣的披风",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "逐鹿套",
+      "image": "passive/张绣的披风--稀有--2db43db6.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195746.png",
+      "source_sha256": "2db43db698a37e11581f7035618e4b4691b6d0a6afabfec12113220194f7626c",
+      "source_size": [
+        1209,
+        739
+      ],
+      "crop": {
+        "x": 707,
+        "y": 86,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-f7214a5c59fb",
+      "name": "拂尘",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/拂尘--稀有--f7214a5c.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195753.png",
+      "source_sha256": "f7214a5c59fb2116d76feb4531975df30b7caa40f9fdaee1053eb6bd51e74271",
+      "source_size": [
+        1154,
+        753
+      ],
+      "crop": {
+        "x": 723,
+        "y": 112,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-5f16c96ee2f3",
+      "name": "张恭的信",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "逐鹿套",
+      "image": "passive/张恭的信--稀有--5f16c96e.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195800.png",
+      "source_sha256": "5f16c96ee2f3cc3a6f28cd544c5c352b72b692ee55f9935c82577b56536b73da",
+      "source_size": [
+        1274,
+        795
+      ],
+      "crop": {
+        "x": 752,
+        "y": 107,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-66c9c052cba7",
+      "name": "长坂坡勋章",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/长坂坡勋章--稀有--66c9c052.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195807.png",
+      "source_sha256": "66c9c052cba7581693d3ea33ade1c6e02291b6a9622f71c43e86a81905a9dbf4",
+      "source_size": [
+        1170,
+        757
+      ],
+      "crop": {
+        "x": 745,
+        "y": 82,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-199c68e3d031",
+      "name": "三娘的玫刃剑",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/三娘的玫刃剑--稀有--199c68e3.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195814.png",
+      "source_sha256": "199c68e3d031a6a357c2829b55f1197c2c9effc3d26d3a901c7346519fd66f04",
+      "source_size": [
+        1188,
+        740
+      ],
+      "crop": {
+        "x": 727,
+        "y": 92,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-31b461793e52",
+      "name": "蝴蝶翼",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/蝴蝶翼--稀有--31b46179.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195821.png",
+      "source_sha256": "31b461793e52d99e05d9d4d88295dcc31f12d38d02f1321e5ce4f8908c216bdf",
+      "source_size": [
+        1219,
+        722
+      ],
+      "crop": {
+        "x": 746,
+        "y": 82,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-ebbe0169dc5b",
+      "name": "追猎锤",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "passive/追猎锤--稀有--ebbe0169.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195829.png",
+      "source_sha256": "ebbe0169dc5ba7f114d362ea448ca2e1598310541838746e4ef276f3f667b441",
+      "source_size": [
+        1272,
+        770
+      ],
+      "crop": {
+        "x": 796,
+        "y": 104,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-01984ec6e628",
+      "name": "阿斗的襁褓",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "仁爱套",
+      "image": "passive/阿斗的襁褓--稀有--01984ec6.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195837.png",
+      "source_sha256": "01984ec6e62801d23e55b369f237c0ca8a68e0974104f847eb64712fa43b5815",
+      "source_size": [
+        1176,
+        734
+      ],
+      "crop": {
+        "x": 717,
+        "y": 92,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "passive-9b546a31e828",
+      "name": "孟德新书",
+      "category": "被动宝物",
+      "type": "passive",
+      "quality": "稀有",
+      "set_name": "墨宝套",
+      "image": "passive/孟德新书--稀有--9b546a31.png",
+      "width": 82,
+      "height": 82,
+      "source": "D:\\sanguosha\\被动宝物\\屏幕截图 2026-08-10 195844.png",
+      "source_sha256": "9b546a31e828d0052db6f42ce4d443ceb7ab94665f739e4775506fd3a17e6fa6",
+      "source_size": [
+        1190,
+        685
+      ],
+      "crop": {
+        "x": 718,
+        "y": 77,
+        "width": 82,
+        "height": 82
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": false
+    },
+    {
+      "id": "consumables-c0b373f13c36",
+      "name": "蜀中地图",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "传说",
+      "set_name": null,
+      "image": "consumables/蜀中地图--传说--c0b373f1.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-12 235929.png",
+      "source_sha256": "c0b373f13c36e4e8c020a9098a3cbb1303356068c671be6ccaac3f3b8cda5bf6",
+      "source_size": [
+        1689,
+        1053
+      ],
+      "crop": {
+        "x": 1094,
+        "y": 110,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-df7191b029eb",
+      "name": "天材地宝",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/天材地宝--稀有--df7191b0.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-12 235947.png",
+      "source_sha256": "df7191b029ebc721d3372260b0086b41655babcafb69b5a4a96ff012fc124710",
+      "source_size": [
+        1657,
+        1019
+      ],
+      "crop": {
+        "x": 1068,
+        "y": 90,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-779ffa6c7f88",
+      "name": "甘露",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/甘露--稀有--779ffa6c.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-12 235954.png",
+      "source_sha256": "779ffa6c7f8815464690170f9ee1d8dca08ce1e62c61999e2ba895bc66fe8337",
+      "source_size": [
+        1609,
+        1009
+      ],
+      "crop": {
+        "x": 1052,
+        "y": 96,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-48e35d3c55fb",
+      "name": "精炼九鼎丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/精炼九鼎丹--稀有--48e35d3c.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000001.png",
+      "source_sha256": "48e35d3c55fbf54d0537c0fbc7e7e53d78a0c3a8e497271fb78d1f500e5bd541",
+      "source_size": [
+        1642,
+        1008
+      ],
+      "crop": {
+        "x": 1092,
+        "y": 90,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-c8e321f8b1d9",
+      "name": "精炼太清丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/精炼太清丹--稀有--c8e321f8.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000009.png",
+      "source_sha256": "c8e321f8b1d95aa918111f2061702dac955ca1547c69fdc0a97eeeddd501c89a",
+      "source_size": [
+        1634,
+        1000
+      ],
+      "crop": {
+        "x": 1064,
+        "y": 81,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-be42b0d105ca",
+      "name": "精炼玉液丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/精炼玉液丹--稀有--be42b0d1.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000020.png",
+      "source_sha256": "be42b0d105ca1a9b9fbc33132b4e6d2f78e744415fa930e8c6ea4561f83e4a0e",
+      "source_size": [
+        1591,
+        995
+      ],
+      "crop": {
+        "x": 1046,
+        "y": 78,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-0c53f3f3b200",
+      "name": "精制寒食散",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/精制寒食散--稀有--0c53f3f3.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000026.png",
+      "source_sha256": "0c53f3f3b200358676ba5fc28d8c09c6d0951029d3fc782db96cae61ee5ac5b1",
+      "source_size": [
+        1629,
+        983
+      ],
+      "crop": {
+        "x": 1048,
+        "y": 79,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-0f173266b3ec",
+      "name": "精制五石散",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/精制五石散--稀有--0f173266.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000033.png",
+      "source_sha256": "0f173266b3ec40619f7fb0998272f061808afae4f8f77e513700c2d82ac94bdc",
+      "source_size": [
+        1640,
+        1027
+      ],
+      "crop": {
+        "x": 1068,
+        "y": 82,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-1e4ed2e50920",
+      "name": "李肃的金珠",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/李肃的金珠--稀有--1e4ed2e5.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000039.png",
+      "source_sha256": "1e4ed2e50920fc3fd054039694a9b3a9c42caf649e465f0e756ae56f2440cf49",
+      "source_size": [
+        1664,
+        1021
+      ],
+      "crop": {
+        "x": 1099,
+        "y": 100,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-5c42f6d9440d",
+      "name": "完工的栈道",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/完工的栈道--稀有--5c42f6d9.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000046.png",
+      "source_sha256": "5c42f6d9440da0fdb5632b46d8d082adeb76f69c8a2913f9a06f74ad437ab73d",
+      "source_size": [
+        1678,
+        1039
+      ],
+      "crop": {
+        "x": 1092,
+        "y": 92,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-c8edbcbf43c2",
+      "name": "天师符",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/天师符--稀有--c8edbcbf.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000056.png",
+      "source_sha256": "c8edbcbf43c25d10638fcd3f89ca3d381561e79301dcda7774a785384f9f92cb",
+      "source_size": [
+        1604,
+        1002
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 79,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-9aeb577235f9",
+      "name": "商人符",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/商人符--稀有--9aeb5772.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000103.png",
+      "source_sha256": "9aeb577235f91949468d67e7659d3972ccd5acaea24ba07563bff2217be5c476",
+      "source_size": [
+        1631,
+        1017
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 80,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-1e925b5d9c50",
+      "name": "铁匠符",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/铁匠符--稀有--1e925b5d.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000109.png",
+      "source_sha256": "1e925b5d9c505fa8ea3a2bb2ec98c2ce89fff2c4184f03720fb1603fa8e96d1b",
+      "source_size": [
+        1618,
+        988
+      ],
+      "crop": {
+        "x": 1054,
+        "y": 88,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-edf9fe6a257e",
+      "name": "隆中对",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/隆中对--稀有--edf9fe6a.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000119.png",
+      "source_sha256": "edf9fe6a257e37332f47a3cf18b6305910ceced8b7e6e17d060afefb54036358",
+      "source_size": [
+        1625,
+        1006
+      ],
+      "crop": {
+        "x": 1041,
+        "y": 79,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-b304f0f5c449",
+      "name": "虎符",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/虎符--稀有--b304f0f5.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000126.png",
+      "source_sha256": "b304f0f5c449a5007a8c579200e18cfc59e87e3a09c360accf02d531106a8f9f",
+      "source_size": [
+        1626,
+        1003
+      ],
+      "crop": {
+        "x": 1053,
+        "y": 88,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-757a64d0b2bf",
+      "name": "玉玺",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/玉玺--稀有--757a64d0.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000133.png",
+      "source_sha256": "757a64d0b2bfaf272d5cb1a3282aeea6532b5cf0ed00a3af53c576221df94fec",
+      "source_size": [
+        1600,
+        1000
+      ],
+      "crop": {
+        "x": 1034,
+        "y": 73,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-0ca6ae3a1fa3",
+      "name": "孙策的红巾",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/孙策的红巾--稀有--0ca6ae3a.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000140.png",
+      "source_sha256": "0ca6ae3a1fa3f6d636ca4c8b139c13dceea6de9c176e31d3c5ba09465d81396e",
+      "source_size": [
+        1592,
+        996
+      ],
+      "crop": {
+        "x": 1032,
+        "y": 87,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-09619f2e49ba",
+      "name": "邓艾的红心",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/邓艾的红心--稀有--09619f2e.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000146.png",
+      "source_sha256": "09619f2e49ba01357770e152aaf28ac7744c89ee6f2eca1adf5939ee1f447818",
+      "source_size": [
+        1601,
+        1024
+      ],
+      "crop": {
+        "x": 1036,
+        "y": 95,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-440626093c1d",
+      "name": "樊玉凤的酒杯",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/樊玉凤的酒杯--稀有--44062609.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000155.png",
+      "source_sha256": "440626093c1d6ad53e89e0369b53ced3fa34d648b0c9ac796a6abf394455ed37",
+      "source_size": [
+        1638,
+        1026
+      ],
+      "crop": {
+        "x": 1061,
+        "y": 93,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-560372e81591",
+      "name": "刘琦的梯子",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/刘琦的梯子--稀有--560372e8.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000204.png",
+      "source_sha256": "560372e81591f3d0d1c2d34e7bf50f130c75651c1afcbe5074962f78b7813cad",
+      "source_size": [
+        1659,
+        997
+      ],
+      "crop": {
+        "x": 1044,
+        "y": 79,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-1d46880a05a0",
+      "name": "华容道",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/华容道--稀有--1d46880a.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000212.png",
+      "source_sha256": "1d46880a05a0fcae79b163f1c8574b4eea4745f930833698af8148444dafc787",
+      "source_size": [
+        1626,
+        1005
+      ],
+      "crop": {
+        "x": 1054,
+        "y": 80,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-763d0489ed5e",
+      "name": "征召令",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "稀有",
+      "set_name": null,
+      "image": "consumables/征召令--稀有--763d0489.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000219.png",
+      "source_sha256": "763d0489ed5ede2b4aff28037fa23f738f4cf46a5ac549b24186c7a10d2b8b8d",
+      "source_size": [
+        1618,
+        999
+      ],
+      "crop": {
+        "x": 1049,
+        "y": 82,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-6add100993c0",
+      "name": "普通药材",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/普通药材--普通--6add1009.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000231.png",
+      "source_sha256": "6add100993c0a391f5f86bfe865f34b52af49c4f35fe85e7dff867522a4e622c",
+      "source_size": [
+        1634,
+        1007
+      ],
+      "crop": {
+        "x": 1058,
+        "y": 83,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-3d4b7fb24117",
+      "name": "麻沸散",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/麻沸散--普通--3d4b7fb2.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000239.png",
+      "source_sha256": "3d4b7fb24117a81a928cc54c7c6702c5aa5c2695916f55675f2e80362f57a69c",
+      "source_size": [
+        1685,
+        1041
+      ],
+      "crop": {
+        "x": 1092,
+        "y": 113,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-ac7ba75752f5",
+      "name": "九鼎丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/九鼎丹--普通--ac7ba757.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000246.png",
+      "source_sha256": "ac7ba75752f5289883508ffab09e74d26e46a35e8053d51395eb9ccb746700fe",
+      "source_size": [
+        1633,
+        1035
+      ],
+      "crop": {
+        "x": 1061,
+        "y": 91,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-0f8ada4853f8",
+      "name": "太清丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/太清丹--普通--0f8ada48.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000255.png",
+      "source_sha256": "0f8ada4853f8eb400d08443ea9b2585963b8b1606b66ded4621e44cd8955dea9",
+      "source_size": [
+        1622,
+        1015
+      ],
+      "crop": {
+        "x": 1038,
+        "y": 78,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-a40e6fe7b565",
+      "name": "玉液丹",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/玉液丹--普通--a40e6fe7.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000301.png",
+      "source_sha256": "a40e6fe7b565c77dac01a30c12befc458202cab69bca638bda9ee2a9bd7971fd",
+      "source_size": [
+        1594,
+        1021
+      ],
+      "crop": {
+        "x": 1050,
+        "y": 86,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-411abef121eb",
+      "name": "寒食散",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/寒食散--普通--411abef1.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000309.png",
+      "source_sha256": "411abef121ebd52d94f11a43d2fa37bf822a2da56081671381cb116657db8d21",
+      "source_size": [
+        1604,
+        995
+      ],
+      "crop": {
+        "x": 1057,
+        "y": 80,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-f64c5d607029",
+      "name": "五石散",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/五石散--普通--f64c5d60.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000315.png",
+      "source_sha256": "f64c5d60702913590f5fbad1dbadfaac6ffb8fd81f2a9737c57cddcca5574a85",
+      "source_size": [
+        1640,
+        1035
+      ],
+      "crop": {
+        "x": 1062,
+        "y": 97,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-49821a4a60c9",
+      "name": "郭嘉的止咳药",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/郭嘉的止咳药--普通--49821a4a.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000321.png",
+      "source_sha256": "49821a4a60c97d94c1480bdd6a3cdf327065810a7dd4ce77482d9f37eff33e08",
+      "source_size": [
+        1645,
+        1014
+      ],
+      "crop": {
+        "x": 1075,
+        "y": 93,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-540c51098580",
+      "name": "建设的栈道",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/建设的栈道--普通--540c5109.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000328.png",
+      "source_sha256": "540c51098580ba69fb466a5ff5bed0d1aa58d418b8a662aa434e9c8b9f04e4f4",
+      "source_size": [
+        1646,
+        1028
+      ],
+      "crop": {
+        "x": 1070,
+        "y": 96,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-5d5ebbf15676",
+      "name": "管辂的罗盘",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/管辂的罗盘--普通--5d5ebbf1.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000334.png",
+      "source_sha256": "5d5ebbf156760c744cc24f74c6d583ba98e1f29890d09fdf485121721039814b",
+      "source_size": [
+        1659,
+        1030
+      ],
+      "crop": {
+        "x": 1058,
+        "y": 93,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-9642e19953e0",
+      "name": "对敌计策",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/对敌计策--普通--9642e199.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000342.png",
+      "source_sha256": "9642e19953e07bddc27202355e6b3c4ca7e898cfd4e653896b04a58152614db3",
+      "source_size": [
+        1655,
+        1019
+      ],
+      "crop": {
+        "x": 1057,
+        "y": 84,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-1ace698e868b",
+      "name": "青梅酒",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/青梅酒--普通--1ace698e.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000348.png",
+      "source_sha256": "1ace698e868b6f723f1e907b31decf6a81461d9281b441e1110c9aea44679907",
+      "source_size": [
+        1675,
+        1013
+      ],
+      "crop": {
+        "x": 1064,
+        "y": 92,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-ede4a6cbbc54",
+      "name": "龙版三国杀",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/龙版三国杀--普通--ede4a6cb.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000355.png",
+      "source_sha256": "ede4a6cbbc54f36253496a1982be9656f6a5c42572cb77df2586168b792031ea",
+      "source_size": [
+        1665,
+        1018
+      ],
+      "crop": {
+        "x": 1069,
+        "y": 89,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-8fa787749496",
+      "name": "军争卡包",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/军争卡包--普通--8fa78774.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000402.png",
+      "source_sha256": "8fa787749496c59534e3df050b42ead2fb7f9322b67f1c319418cc64bc998984",
+      "source_size": [
+        1689,
+        1025
+      ],
+      "crop": {
+        "x": 1063,
+        "y": 91,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-86b4c7c7fd6c",
+      "name": "高顺的面具",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/高顺的面具--普通--86b4c7c7.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000408.png",
+      "source_sha256": "86b4c7c7fd6cdca64e6b1701428fdae5c3bb128d279141ca4edd0e26df1807ba",
+      "source_size": [
+        1687,
+        1018
+      ],
+      "crop": {
+        "x": 1073,
+        "y": 90,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-8f3c3de5e489",
+      "name": "十二奇策",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/十二奇策--普通--8f3c3de5.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000414.png",
+      "source_sha256": "8f3c3de5e489686d4309b66c87c41ffdd202906170c81623e3b2ff6d8f6b71eb",
+      "source_size": [
+        1703,
+        1018
+      ],
+      "crop": {
+        "x": 1073,
+        "y": 86,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-212cf37ed229",
+      "name": "假书信",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/假书信--普通--212cf37e.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000421.png",
+      "source_sha256": "212cf37ed2294c15574efa59f2595a7c33060ceb78e274cd6844c1db5022b766",
+      "source_size": [
+        1684,
+        1024
+      ],
+      "crop": {
+        "x": 1073,
+        "y": 94,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    },
+    {
+      "id": "consumables-ec9b4619b30e",
+      "name": "淳于琼的酒壶",
+      "category": "消耗品",
+      "type": "consumable",
+      "quality": "普通",
+      "set_name": null,
+      "image": "consumables/淳于琼的酒壶--普通--ec9b4619.png",
+      "width": 122,
+      "height": 122,
+      "source": "D:\\sanguosha\\消耗品\\屏幕截图 2026-08-13 000429.png",
+      "source_sha256": "ec9b4619b30eb4637b5319a640fb52d10f361b65cb51faa94e24d353b920e979",
+      "source_size": [
+        1695,
+        1013
+      ],
+      "crop": {
+        "x": 1058,
+        "y": 83,
+        "width": 122,
+        "height": 122
+      },
+      "catalog": "passive-consumables.json",
+      "preferred": true
+    }
+  ]
+}
